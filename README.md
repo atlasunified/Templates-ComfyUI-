@@ -1,4 +1,4 @@
-# Templates for the ComfyUI Interface
+# Templates for the [ComfyUI Interface](https://github.com/comfyanonymous/ComfyUI)
 NOTE: DPM ADAPTIVE is non-functioning right now. Not sure if it is my settings or the UI.
 ## 512 x 512
 
@@ -33,5 +33,10 @@ Only random atm.
 -----
 ## High-Resolution Fix
 
-Upscale your photo. This one gets tricky as there is no 2x 4x options. You increase the size by increasing the height and width...
+Upscale your photo.
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Hi-Res%20Fix/high-res.PNG)
+-----
+## Control Net
+I must admit, this is a pretty good one, the example was spot on!
+-----
+!alt text (https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Control%20Net/controlnet.PNG)
