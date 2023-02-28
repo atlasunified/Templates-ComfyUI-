@@ -37,6 +37,7 @@ Upscale your photo.
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Hi-Res%20Fix/high-res.PNG)
 -----
 ## Control Net
+
 I must admit, this is a pretty good one, the example was spot on!
 -----
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Control%20Net/controlnet.PNG)
