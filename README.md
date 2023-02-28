@@ -30,3 +30,8 @@ Only random atm.
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/5126402.PNG)
 -----
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/51640dash.PNG)
+-----
+## High-Resolution Fix
+
+Upscale your photo. This one gets tricky as there is no 2x 4x options. You increase the size by increasing the height and width...
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Hi-Res%20Fix/high-res.PNG)
