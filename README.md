@@ -8,10 +8,11 @@ See the differentiation between samplers in this 14 image simple prompt generato
 
 -- Dashboard random and singular seeds to manipulate individual image settings
 
+Sampler Showcase
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125122.PNG)
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125121.PNG)
 -----
-Manipulate settings for each sampler to elicit better generations.
+Manipulate settings for each sampler to elicit better generations with the Sampler Dashboard.
 -----
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512dash11.PNG)
 -----
@@ -39,5 +40,6 @@ Upscale your photo.
 ## Control Net
 
 I must admit, this is a pretty good one, the example was spot on!
+
 -----
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Control%20Net/controlnet.PNG)
