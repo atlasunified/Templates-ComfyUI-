@@ -9,11 +9,7 @@ See the differentiation between samplers in this 14 image simple prompt generato
 -- Dashboard random and singular seeds to manipulate individual image settings
 
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125122.PNG)
-
------
-
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125121.PNG)
-
 -----
 Manipulate settings for each sampler to elicit better generations.
 -----
@@ -27,9 +23,10 @@ Only random atm.
 
 -- Showcase random seeds
 -- Dashboard random seeds to manipulate individual image settings
+
 -----
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/512640.PNG)
 -----
-![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X6402/512640.PNG)
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/5126402.PNG)
 -----
-![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/512640dash.PNG)
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/51640dash.PNG)
