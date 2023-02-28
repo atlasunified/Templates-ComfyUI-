@@ -47,3 +47,10 @@ I must admit, this is a pretty good one, the example was spot on!
 
 Control Net
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Control%20Net/controlnet.PNG)
+-----
+## Area Composition
+
+This one is difficult to master as I don't have the models used in the example.
+
+AreaComp
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Area%20Composition/AreaComp.PNG)
