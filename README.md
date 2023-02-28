@@ -27,18 +27,18 @@ Only random atm.
 -- Showcase random seeds
 -- Dashboard random seeds to manipulate individual image settings
 
------
+Portrait Sampler Showcase
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/512640.PNG)
------
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/5126402.PNG)
 -----
+Portrait Sampler Dashboard
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/51640dash.PNG)
 -----
 ## High-Resolution Fix
 
 Upscale your generations.
 
-High-Resolution Fix
+HighRes Fix
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Hi-Res%20Fix/high-res.PNG)
 -----
 ## Control Net
