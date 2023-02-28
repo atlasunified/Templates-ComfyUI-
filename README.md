@@ -13,7 +13,7 @@ See the differentiation between samplers in this 14 image simple prompt generato
 -----
 Manipulate settings for each sampler to elicit better generations.
 -----
-
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512dash11.PNG)
 -----
 ## 512 x 640 - Portrait Mode
 
