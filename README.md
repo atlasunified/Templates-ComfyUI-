@@ -12,8 +12,10 @@ Sampler Showcase
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125122.PNG)
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125121.PNG)
 -----
-Manipulate settings for each sampler to elicit better generations with the Sampler Dashboard.
------
+
+Manipulate settings for each sampler to elicit better generations.
+
+Sampler Dashboard
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512dash11.PNG)
 -----
 ## 512 x 640 - Portrait Mode
@@ -34,12 +36,14 @@ Only random atm.
 -----
 ## High-Resolution Fix
 
-Upscale your photo.
+Upscale your generations.
+
+High-Resolution Fix
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Hi-Res%20Fix/high-res.PNG)
 -----
 ## Control Net
 
 I must admit, this is a pretty good one, the example was spot on!
 
------
+Control Net
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Control%20Net/controlnet.PNG)
