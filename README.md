@@ -44,7 +44,7 @@ Landscape Sampler Showcase
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/random%20showcase.PNG)
 -----
 Landscape Sampler Dashboard
-![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/768x512-uniform-dash.json)
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/uniform%20dash.PNG)
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/random%20dash.PNG)
 -----
 ## High-Resolution Fix
