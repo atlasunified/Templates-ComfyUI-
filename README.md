@@ -67,3 +67,10 @@ This one is difficult to master as I don't have the models used in the example.
 
 AreaComp
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/Area%20Composition/AreaComp.PNG)
+-----
+# Image Upscaler
+
+Put your favorite upscaler in this compact tool.
+
+Image Upscaler
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/image-upscaler/image-upscaler.PNG)
