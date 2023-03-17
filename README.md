@@ -74,3 +74,10 @@ Put your favorite upscaler in this compact tool.
 
 Image Upscaler
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/image-upscaler/image-upscaler.PNG)
+-----
+# LoRA Loader and Modeling
+
+While I'm not a fan of anime, save Akira, this LoRA modeler may be great for anime scenes, see the repo ID'd in template.
+
+LoRA Loader and Modeling
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/lora-loader/lora-loader.PNG)
