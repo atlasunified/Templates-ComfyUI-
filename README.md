@@ -34,6 +34,19 @@ Portrait Sampler Showcase
 Portrait Sampler Dashboard
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512X640/51640dash.PNG)
 -----
+## 768 x 512 - Landscape Mode
+
+This is my favorite.
+
+-----
+Landscape Sampler Showcase
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/uniform%20showcase.PNG)
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/random%20showcase.PNG)
+-----
+Landscape Sampler Dashboard
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/768x512-uniform-dash.json)
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/768x512/random%20dash.PNG)
+-----
 ## High-Resolution Fix
 
 Upscale your generations.
