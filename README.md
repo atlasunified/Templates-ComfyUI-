@@ -10,6 +10,8 @@ See the differentiation between samplers in this 14 image simple prompt generato
 
 -- Dashboard random and singular seeds to manipulate individual image settings
 
+-- ** UPDATED: Random and Uniform Dashboards to reflect DPM Adaptive working but sus, and made things cleaner.
+
 Sampler Showcase
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125122.PNG)
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/5125121.PNG)
