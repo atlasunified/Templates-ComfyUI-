@@ -17,8 +17,10 @@ Sampler Showcase
 
 Manipulate settings for each sampler to elicit better generations.
 
-Sampler Dashboard
-![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512dash11.PNG)
+Random Dashboard
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512x512-random-dash.PNG)
+Uniform Dashoboard
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512x512-uniform-dash.PNG)
 -----
 ## 512 x 640 - Portrait Mode
 
