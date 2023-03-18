@@ -1,5 +1,7 @@
 # Templates for the [ComfyUI Interface](https://github.com/comfyanonymous/ComfyUI)
-NOTE: DPM ADAPTIVE is non-functioning right now. Not sure if it is my settings or the UI.
+
+NOTE: DPM ADAPTIVE appears to be working again... but its still sus, so I marked it orange.
+
 ## 512 x 512
 
 See the differentiation between samplers in this 14 image simple prompt generator.
