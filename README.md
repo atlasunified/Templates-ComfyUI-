@@ -21,7 +21,7 @@ Manipulate settings for each sampler to elicit better generations.
 
 Random Dashboard
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512x512-random-dash.PNG)
-Uniform Dashoboard
+Uniform Dashboard
 ![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/512x512/512x512-uniform-dash.PNG)
 -----
 ## 512 x 640 - Portrait Mode
