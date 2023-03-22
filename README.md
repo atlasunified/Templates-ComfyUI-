@@ -1,6 +1,15 @@
 # Templates for the [ComfyUI Interface](https://github.com/comfyanonymous/ComfyUI)
 
-NOTE: DPM ADAPTIVE appears to be working again... but its still sus, so I marked it orange.
+ADDED: Co-LoRA NET -- A mixture of control net and LoRA that allows for robust sketches and what not...
+
+## Co-LoRA NET
+
+Not sure if this is just control net or if LoRA is doing anything to help it...
+
+Co-LoRA NET
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/co-loranet/images/co-loranet.PNG)
+![alt text](https://github.com/atlasunified/Templates-ComfyUI-/blob/main/co-loranet/images/co-loranet-invert.PNG)
+-----
 
 ## 512 x 512
 
