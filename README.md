@@ -1,7 +1,5 @@
 # Templates for the [ComfyUI Interface](https://github.com/comfyanonymous/ComfyUI)
 
-If we can keep the stars at the same number they are now, that would be neat...
-
 ADDED: Co-LoRA NET -- A mixture of control net and LoRA that allows for robust sketches and what not...
 
 ## Co-LoRA NET
