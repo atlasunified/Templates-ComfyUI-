@@ -1,6 +1,6 @@
 # Templates for the [ComfyUI Interface](https://github.com/comfyanonymous/ComfyUI)
 
-## Workflows for the ComfyUI right here at [Wyrde ComfyUI Workflows](https://github.com/wyrde/wyrde-comfyui-workflows)
+## Workflows for the ComfyUI at [Wyrde ComfyUI Workflows](https://github.com/wyrde/wyrde-comfyui-workflows)
 
 ADDED: Co-LoRA NET -- A mixture of control net and LoRA that allows for robust sketches and what not...
 
